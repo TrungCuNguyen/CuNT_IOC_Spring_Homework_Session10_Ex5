@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [
+    {
+      "createdAt": "2026-09-15T22:01:57",
+      "email": "abc@gmail.com",
+      "experienceYears": 5,
+      "fullName": "nva",
+      "id": 1,
+      "phoneNumber": "0123456789",
+      "specialty": "nhi",
+      "updatedAt": "2026-09-15T22:02:26"
+    }
+  ],
+  "meta": {
+    "totalElements": 1,
+    "page": 1,
+    "pageSize": 10,
+    "totalPages": 1
+  }
+}
